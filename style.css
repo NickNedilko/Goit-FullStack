@@ -1,6 +1,7 @@
 .wrapper{
     width: 1200;
     margin: 20px; auto;
+    overflow: hidden;
 }
 .header{
     height: 200px;
@@ -19,6 +20,7 @@
 .footer{
     height: 200px;
     background-color: brown;
+    float: left;
 }
 h1{
     color: aqua;
