@@ -1,29 +1,41 @@
 .wrapper{
-    width: 1200;
-
+    width: 1200px;
     overflow: hidden;
 }
 .header{
     height: 200px;
-    background-color: aquamarine;
+    background-color:green;
+     border: 1px;
+  border-radius: 20px;
 }
 .left{
     height: 400px;
-    width: 600px;
+    width: 400px;
     background-color: blueviolet;
+    float: left;
 }
 .right{
     height: 400px;
-    width:600px;
+    width:400px;
     background-color: blue;
-    float: left;
+float:left;}
+.center{
+    height: 400px;
+    width:400px;
+    background-color: yellowgreen;
+    float:left;
+  text-align: center;
+
 }
 .footer{
+
     height: 200px;
     background-color: brown;
-    
+     width: 1200px;
+
+
 }
 h1{
     color: aqua;
-    
+text-align: center;
 }
