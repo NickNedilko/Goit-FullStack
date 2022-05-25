@@ -1,3 +1,21 @@
+.wrapper{
+    width: 1200;
+    margin: 20px; auto;
+}
+.header{
+    background-color: aquamarine;
+}
+.left{
+    width: 600px;
+    background-color: blueviolet;
+}
+.right{
+    width:600px;
+    background-color: blue;
+}
+.footer{
+    background-color: brown;
+}
 h1{
     color: aqua;
     
